@@ -1,0 +1,32 @@
+# dotenv
+.env
+.venv
+.env_profiles
+
+#virtualenv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#notebooks
+dev_sot.ipynb
+dev_sot_v2.ipynb
+tmp.ipynb
+
+#docker images
+shopify-twitter-bot.tar.gz
+
+#bots
+shopifytwitter.py
+
+#archive
+archive/
+
+images/
+tiktok_images/
+tiktok_user_images/
+
+#output files
+data/
