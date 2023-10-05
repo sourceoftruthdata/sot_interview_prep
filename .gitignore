@@ -30,3 +30,5 @@ tiktok_user_images/
 
 #output files
 data/
+
+.DS_Store

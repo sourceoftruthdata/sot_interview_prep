@@ -1,7 +1,7 @@
 # How to use
 
 
-# Start a project
+## Start a project
 
 # >python3 -m venv .venv
 
