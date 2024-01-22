@@ -1,16 +1,21 @@
 # How to use
 
+A set of notebooks to help with job interview prep.  Enjoy!  Feedback appreciated!
 
-## Start a project
+This is the public repository of Source of Truth Data API integrations.
+This repo is designed to allow users explore SoT Data production code for experimentation and collaboration.
 
-# >python3 -m venv .venv
+Please contact us at info@sourceoftruthdata.com. On Twitter: @sot_data Discord: https://discord.gg/pvp6SP6anG
 
-# >source ./venv/bin/activate
+Suggestions and feedback can be entered in Github Issues.
 
-# >pip install pandas
+## Using this project:
 
-## to load requirements
-# >pip install -r requirements.txt
+## CREATE venv
+>python3 -m venv .venv
 
-## If updating requirements.txt
-# >pip freeze > requirements.txt
+## ACTIVATE venv
+>source ./venv/bin/activate
+
+## INSTALL packages
+>pip install -r requirements.txt
